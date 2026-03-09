@@ -3,7 +3,7 @@
 - Class Date: Mar 9 - 10, 2026
 - Facilitator: @dzeyelid
 
-## Class Resources
+## Class Resources TEST
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
